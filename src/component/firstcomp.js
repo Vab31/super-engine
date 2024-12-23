@@ -6,7 +6,7 @@ export default function Firstcomp() {
 
   return (
     <div>
-<h1> first component</h1>
+<h1>  component</h1>
 
     </div>
   )
